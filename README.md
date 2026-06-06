@@ -1,2 +1,2 @@
-# Black Friday Purchase Prediction
-Balance approach: Ridge Regression + Random Forest Regressor
+# **Black Friday Purchase Prediction**
+**Balance Approach: Ridge Regression + Random Forest Regressor**
